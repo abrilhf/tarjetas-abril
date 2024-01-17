@@ -410,8 +410,7 @@ section > div .mouse{
     }
 
     .inicio > .mersh{
-        width: 100%;
-        margin-top: 40px;
+        display: none;
     }
 
     .inicio .mersh div{
@@ -423,7 +422,7 @@ section > div .mouse{
     }
 
     #servicio div.info {
-        padding: 88px;
+        padding: 45px;
         align-items: flex-start;
     }
 
